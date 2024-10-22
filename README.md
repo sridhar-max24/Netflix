@@ -29,9 +29,10 @@ CREATE TABLE movies_tv_shows (
     description TEXT
 );
 ```
-![Chart](chat_outputmost_popular_genres.png)
 
 ### Q.1. Most Popular Genres:
+
+![Chart](chat_outputmost_popular_genres.png)
 
 ```sql
 SELECT listed_in, COUNT(*) AS count
@@ -57,7 +58,9 @@ WHERE date_added IS NOT NULL
 ORDER BY date_added DESC;
 ```
 ### Q.4. Country Analysis:
+
 ![chart](top_countries_by_number_of_titles.png)
+
 ```sql
 SELECT country, COUNT(*) AS count
 FROM movies_tv_shows
