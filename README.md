@@ -90,6 +90,7 @@ FROM movies_tv_shows
 GROUP BY types;
 ```
 ### Q.8. Release Year Analysis:
+![chart](release_year_analysis.png)
 ```sql
 SELECT release_year, COUNT(*) AS count
 FROM movies_tv_shows
