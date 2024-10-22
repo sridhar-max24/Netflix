@@ -29,4 +29,12 @@ CREATE TABLE movies_tv_shows (
     description TEXT
 );
 ```
+### Q.1. Most Popular Genres:
+
+```sql
+SELECT listed_in, COUNT(*) AS count
+FROM movies_tv_shows
+GROUP BY listed_in
+ORDER BY count DESC;
+```
 
