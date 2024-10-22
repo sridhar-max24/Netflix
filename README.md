@@ -135,6 +135,5 @@ I am a passionate data enthusiast currently honing my skills in SQL and data ana
 
 SQL for data querying
 Python with pandas and matplotlib for analysis and visualization
-Support from ChatGPT and Gemini AI for coding guidance
-YouTube tutorials for enhancing visualization techniques
-
+Self-learning through YouTube for comprehensive data analysis techniques
+Guidance from ChatGPT and Gemini AI for coding support
