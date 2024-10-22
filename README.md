@@ -109,3 +109,10 @@ ORDER BY year ASC;
 - Content Categorization: By categorizing content based on specific keywords, we gain insights into the thematic elements and nature of the shows and movies offered on Netflix.
 
 This analysis offers a comprehensive perspective on Netflix's content landscape, which can guide strategic decisions regarding content acquisition and marketing.
+
+
+
+
+## Author: Sridhar
+
+I am a passionate data enthusiast currently honing my skills in SQL and data analysis. This project showcases my proficiency in SQL, highlighting my ability to extract meaningful insights from data. I am actively seeking data analysis roles and internships to apply my skills in real-world scenarios. If you have any questions, feedback, or opportunities for collaboration, please feel free to reach out!
