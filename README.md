@@ -57,6 +57,7 @@ WHERE date_added IS NOT NULL
 ORDER BY date_added DESC;
 ```
 ### Q.4. Country Analysis:
+![chart](top_countries_by_number_of_titles.png)
 ```sql
 SELECT country, COUNT(*) AS count
 FROM movies_tv_shows
