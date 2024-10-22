@@ -98,6 +98,12 @@ WHERE date_added IS NOT NULL
 GROUP BY year
 ORDER BY year ASC;
 ```
+## Q.10. Content Added by Year:
+```sql
+SELECT title, release_year
+FROM movies_tv_shows
+WHERE title ILIKE '%iron%';  -- Replace 'keyword' with the desired term
+```
 
 ## Findings and Conclusion
 - Content Distribution: The dataset reveals a wide array of movies and TV shows, showcasing diverse ratings and genres available on Netflix.
