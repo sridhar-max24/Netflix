@@ -131,7 +131,7 @@ This analysis offers a comprehensive perspective on Netflix's content landscape,
 
 I am a passionate data enthusiast currently honing my skills in SQL and data analysis. This project showcases my proficiency in SQL, highlighting my ability to extract meaningful insights from data. I am actively seeking data analysis roles and internships to apply my skills in real-world scenarios. If you have any questions, feedback, or opportunities for collaboration, please feel free to reach out!
 
-= Technologies Used 
+- Technologies Used 
 
 SQL for data querying
 Python with pandas and matplotlib for analysis and visualization
