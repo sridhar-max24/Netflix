@@ -6,9 +6,10 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 
 # Objectives
 
-Analyze Content Distribution: Examine the distribution of content types (movies vs. TV shows).
-Identify Popular Genres: Determine which genres are most frequently represented in the dataset.
-Examine Rating Trends: Identify the most common ratings for movies and TV shows.
-Explore Country Representation: Analyze content based on countries of origin.
-Track Release Year Trends: Investigate how content releases vary by year.
-Dataset
+- Analyze Content Distribution: Examine the distribution of content types (movies vs. TV shows).
+- Identify Popular Genres: Determine which genres are most frequently represented in the dataset.
+- Examine Rating Trends: Identify the most common ratings for movies and TV shows.
+- Explore Country Representation: Analyze content based on countries of origin.
+- Track Release Year Trends: Investigate how content releases vary by year.
+
+# Dataset
