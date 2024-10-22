@@ -29,7 +29,7 @@ CREATE TABLE movies_tv_shows (
     description TEXT
 );
 ```
-![Chart](D:\22-10-2024\netflix project\trending_types.png)
+![Chart](chat_outputmost_popular_genres.png)
 
 ### Q.1. Most Popular Genres:
 
