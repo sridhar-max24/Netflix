@@ -98,11 +98,11 @@ WHERE date_added IS NOT NULL
 GROUP BY year
 ORDER BY year ASC;
 ```
-## Q.10. Content Added by Year:
+## Q.10. Find Movies with a Specific Keyword in the Title(type it and the result):
 ```sql
 SELECT title, release_year
 FROM movies_tv_shows
-WHERE title ILIKE '%iron%';  -- Replace 'keyword' with the desired term
+WHERE title ILIKE '%keyword%';  -- Replace 'keyword' with the desired term
 ```
 
 ## Findings and Conclusion
